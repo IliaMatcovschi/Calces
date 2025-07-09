@@ -1,2 +1,2 @@
 # Calces
-Action 3D game created with Uniry for GMTK Game Jam 2024
+Action 3D game created with Unity for GMTK Game Jam 2024
