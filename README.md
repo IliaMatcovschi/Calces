@@ -19,4 +19,4 @@ Unity 2022.3, C#, Unity UI, Unity Physics, Unity NavMesh
 [Download on itch.io](https://d1spercia.itch.io/calces)
 
 ## My Role
-Solo developer: programming, game design, level design
+Programming, game design, level design
