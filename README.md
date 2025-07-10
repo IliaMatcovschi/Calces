@@ -16,7 +16,7 @@ Unity 2022.3, C#, Unity UI, Unity Physics, Unity NavMesh
 - Pause menu
 
 ## Gameplay Video
-[Watch on YouTube](https://youtu.be/Wi3PLreIPLM)
+[Watch on YouTube](https://youtu.be/Bu9VZO-aeTo)
 
 ## Download
 [Download on itch.io](https://d1spercia.itch.io/calces)
