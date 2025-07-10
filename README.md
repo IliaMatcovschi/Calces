@@ -4,7 +4,7 @@ Action 3D game created with Unity for GMTK Game Jam 2024
 ## Description
 
 ## Technologies
-Unity 2022.3, C#, Unity UI, Unity Physics
+Unity 2022.3, C#, Unity UI, Unity Physics, Unity NavMesh
 
 ## Features
 - Puzzles
