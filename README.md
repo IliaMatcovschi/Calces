@@ -1,5 +1,5 @@
 # Calces
-3D puzzle-action game created with Unity for GMTK Game Jam 2024
+3D puzzle-action game created with Unity for GMTK Game Jam 2024 in four days
 
 ## Description
 A mind-bending puzzle-action game about intelligence and fast decision-making.
